@@ -1,0 +1,8 @@
+Nombre: Juan Cristian
+Edad: 21 años
+Carrera: Licenciatura en Informatica
+Matricula: 10056443
+Nombre: Juan Cristian
+Edad: 21 años
+Carrera: Lic. en Informatica
+Matricula:
